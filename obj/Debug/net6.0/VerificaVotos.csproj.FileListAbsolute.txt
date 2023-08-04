@@ -1,0 +1,15 @@
+C:\Users\lucia\documentos\Mentoria\TrabalhosMentoria\Metodos2\bin\Debug\net6.0\VerificaVotos.exe
+C:\Users\lucia\documentos\Mentoria\TrabalhosMentoria\Metodos2\bin\Debug\net6.0\VerificaVotos.deps.json
+C:\Users\lucia\documentos\Mentoria\TrabalhosMentoria\Metodos2\bin\Debug\net6.0\VerificaVotos.runtimeconfig.json
+C:\Users\lucia\documentos\Mentoria\TrabalhosMentoria\Metodos2\bin\Debug\net6.0\VerificaVotos.dll
+C:\Users\lucia\documentos\Mentoria\TrabalhosMentoria\Metodos2\bin\Debug\net6.0\VerificaVotos.pdb
+C:\Users\lucia\documentos\Mentoria\TrabalhosMentoria\Metodos2\obj\Debug\net6.0\VerificaVotos.csproj.AssemblyReference.cache
+C:\Users\lucia\documentos\Mentoria\TrabalhosMentoria\Metodos2\obj\Debug\net6.0\VerificaVotos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucia\documentos\Mentoria\TrabalhosMentoria\Metodos2\obj\Debug\net6.0\VerificaVotos.AssemblyInfoInputs.cache
+C:\Users\lucia\documentos\Mentoria\TrabalhosMentoria\Metodos2\obj\Debug\net6.0\VerificaVotos.AssemblyInfo.cs
+C:\Users\lucia\documentos\Mentoria\TrabalhosMentoria\Metodos2\obj\Debug\net6.0\VerificaVotos.csproj.CoreCompileInputs.cache
+C:\Users\lucia\documentos\Mentoria\TrabalhosMentoria\Metodos2\obj\Debug\net6.0\VerificaVotos.dll
+C:\Users\lucia\documentos\Mentoria\TrabalhosMentoria\Metodos2\obj\Debug\net6.0\refint\VerificaVotos.dll
+C:\Users\lucia\documentos\Mentoria\TrabalhosMentoria\Metodos2\obj\Debug\net6.0\VerificaVotos.pdb
+C:\Users\lucia\documentos\Mentoria\TrabalhosMentoria\Metodos2\obj\Debug\net6.0\VerificaVotos.genruntimeconfig.cache
+C:\Users\lucia\documentos\Mentoria\TrabalhosMentoria\Metodos2\obj\Debug\net6.0\ref\VerificaVotos.dll

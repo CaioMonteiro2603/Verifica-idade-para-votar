@@ -1,0 +1,15 @@
+C:\Users\lucia\documentos\Mentoria\TrabalhosMentoria\Metodos2\bin\Debug\net6.0\Metodos2.exe
+C:\Users\lucia\documentos\Mentoria\TrabalhosMentoria\Metodos2\bin\Debug\net6.0\Metodos2.deps.json
+C:\Users\lucia\documentos\Mentoria\TrabalhosMentoria\Metodos2\bin\Debug\net6.0\Metodos2.runtimeconfig.json
+C:\Users\lucia\documentos\Mentoria\TrabalhosMentoria\Metodos2\bin\Debug\net6.0\Metodos2.dll
+C:\Users\lucia\documentos\Mentoria\TrabalhosMentoria\Metodos2\bin\Debug\net6.0\Metodos2.pdb
+C:\Users\lucia\documentos\Mentoria\TrabalhosMentoria\Metodos2\obj\Debug\net6.0\Metodos2.csproj.AssemblyReference.cache
+C:\Users\lucia\documentos\Mentoria\TrabalhosMentoria\Metodos2\obj\Debug\net6.0\Metodos2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucia\documentos\Mentoria\TrabalhosMentoria\Metodos2\obj\Debug\net6.0\Metodos2.AssemblyInfoInputs.cache
+C:\Users\lucia\documentos\Mentoria\TrabalhosMentoria\Metodos2\obj\Debug\net6.0\Metodos2.AssemblyInfo.cs
+C:\Users\lucia\documentos\Mentoria\TrabalhosMentoria\Metodos2\obj\Debug\net6.0\Metodos2.csproj.CoreCompileInputs.cache
+C:\Users\lucia\documentos\Mentoria\TrabalhosMentoria\Metodos2\obj\Debug\net6.0\Metodos2.dll
+C:\Users\lucia\documentos\Mentoria\TrabalhosMentoria\Metodos2\obj\Debug\net6.0\refint\Metodos2.dll
+C:\Users\lucia\documentos\Mentoria\TrabalhosMentoria\Metodos2\obj\Debug\net6.0\Metodos2.pdb
+C:\Users\lucia\documentos\Mentoria\TrabalhosMentoria\Metodos2\obj\Debug\net6.0\Metodos2.genruntimeconfig.cache
+C:\Users\lucia\documentos\Mentoria\TrabalhosMentoria\Metodos2\obj\Debug\net6.0\ref\Metodos2.dll
